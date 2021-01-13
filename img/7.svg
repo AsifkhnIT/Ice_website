@@ -1,0 +1,24 @@
+<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+ <defs>
+  <filter id="svg_6_blur">
+   <feGaussianBlur stdDeviation="0.9" in="SourceGraphic"/>
+  </filter>
+  <filter id="svg_7_blur">
+   <feGaussianBlur stdDeviation="1.5" in="SourceGraphic"/>
+  </filter>
+ </defs>
+ <g>
+  <title>background</title>
+  <rect fill="#fff" id="canvas_background" height="602" width="802" y="-1" x="-1"/>
+  <g display="none" overflow="visible" y="0" x="0" height="100%" width="100%" id="canvasGrid">
+   <rect fill="url(#gridpattern)" stroke-width="0" y="0" x="0" height="100%" width="100%"/>
+  </g>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <text xml:space="preserve" text-anchor="start" font-family="sans-serif" font-size="188" id="svg_5" y="323" x="82" stroke-width="0" stroke="#000" fill="#6a5eed">C</text>
+  <text transform="rotate(0.0749187, 231.7, 337)" filter="url(#svg_6_blur)" xml:space="preserve" text-anchor="start" font-family="sans-serif" font-size="188" id="svg_6" y="402" x="169" stroke-width="0" stroke="#000" fill="#962d2d">E</text>
+  <text filter="url(#svg_7_blur)" xml:space="preserve" text-anchor="start" font-family="sans-serif" font-size="188" id="svg_7" y="269" x="124" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#222ac9">I</text>
+ </g>
+</svg>
